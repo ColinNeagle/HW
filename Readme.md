@@ -1,3 +1,3 @@
 # Casr Study on Edward Jones
-## Overview and Prigin
+## Overview and Origin
 Edward Jones
