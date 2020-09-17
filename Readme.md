@@ -41,5 +41,8 @@ The results of EDJ's initiative have been mixed. They have increaseed market sha
 
 ## Resources ##
 [Financial Planning](https://www.financial-planning.com/news/edward-jones-technology-strategy-for-growth)
-
+[Think Advisor](https://www.thinkadvisor.com/2020/07/01/edward-jones-top-exec-how-the-firm-is-managing-pandemic-boosting-diversity/)
+[Think Advisor 2](https://www.thinkadvisor.com/2018/04/29/inside-edward-jones-take-on-technology/)
+[Wealth Advisor](https://www.thewealthadvisor.com/article/edward-jones-warns-increased-financial-advisor-attrition-coronavirus-cuts-profitability)
+[EDJ](https://www.edwardjones.com/index.html)
 
