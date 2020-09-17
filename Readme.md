@@ -20,8 +20,26 @@ In the last 20 years, more start up companies have entered the market and taken 
 EDJ has been late to the financial technology party; they didnt want online platforms and etrades to undermine their core competency of im person relationships with their clients. that changed when Frank LaQuinta was named Chief Information Officer (*CIO*) in 2018. Shortly after assuming the *CIO* position, LaQinta began working on the EDJ's Digital Acceleration Strategy.
 
 ## Digital Acceleraton Strategy ##
+These initiative entails:
+1. Using technology to increse their number of clients.
+2. Assist existing clients with more friendly EDJ software applications.
+3. Digital Vault, secure digital solutions for clients, prospective clients, and Financial Advisors to share information in a more collaborative way.
+
+ Edward Jones began using more up-to-date trading platforms that their fax execution trades they been using for nearly 50 years. They also began using cloud technology to store cleint's data, executed trade orders, and other client and corporate sensitive information, which they wouldnt have considered even 4 or 4 years ago.
+
+They also began using interactive tools to review prospect’s  online questionnaires and  quizzes; as well as,  algorithms  to review prospective client’s social media data in order to match them with a financial advisor who best fits their personal situation.
 
 
- is behind the technology curve, compared to many smaller younger inverstment firms, who have been using technology for many years to attract younger clientele. The s
+## Results ##
+The rsults of EDJ's initiative have been mixed. They have increaseed market share, they have also increased the number of Financial Advisors from 17,000 to 19,000, and reduced their FA's attrition rate from 9.6% to 7.6%. They still have a lot of ground to make up with younger investors, particularly the segement with bachelor and masters degrees, who are spuring the traditional FA model altogether and useing e trade platforms exclusively.
 
-Due to the aging demogrphic of their clientele base, the lose of younger high net worth clientele to existing firms, 
+
+## Recomendatons ##
+
+
+
+
+## Resources##
+[Financial Planning](https://www.financial-planning.com/news/edward-jones-technology-strategy-for-growth)
+
+
