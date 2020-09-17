@@ -1,4 +1,4 @@
-# Case Study on Edward Jones
+# **Case Study on Edward Jones**
 ## Overview and Origin
 Edward Jones
 Founded in 1922
