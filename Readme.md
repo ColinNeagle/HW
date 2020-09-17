@@ -39,7 +39,7 @@ The results of EDJ's initiative have been mixed. They have increaseed market sha
 
 
 
-##Resources##
+## Resources ##
 [Financial Planning](https://www.financial-planning.com/news/edward-jones-technology-strategy-for-growth)
 
 
