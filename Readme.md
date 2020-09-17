@@ -15,13 +15,13 @@ Edward Jones (**EDJ**) is an old mechanistic organization, which has finally dec
 ## Current Investment Financial Services Landscape
 EDJ, like many older investment firms  built their core competency on fostering one-on-one interpersonal relationships to build their clientele and earn their client's trust. Their clients have relied on quarterly in-person meetings with their Financial Advisors (*FA*) to discuss investment returns, adjust the client's investment goals, and seek their FA's investment advice.
 
-In the last 20 years, more start-up companies have entered the market and with their use of financial technology, they have taken market share from EDJ and other traditional investment firms. E-trade is a relatively new orgnization in the market (been around less than 40 years), but they have taken over market share with electronic trading platform to trade financial assets including common stocks, preferred stocks, futures contracts, exchange-traded funds, options, mutual funds, and fixed income investments. Ally Bank is another investment organization that is new to the market. Ally is considered in their infancy state for this industry, being in existence around 10 years, but they have excelled in the market with their all transactions on-line platform and their $0 commissions.
+In the last 20 years, more start-up companies have entered the market and with their use of financial technology, they have taken market share from EDJ and other traditional investment firms. E-trade is a relatively new organization in the market (been around less than 40 years), but they have taken over market share with electronic trading platform to trade financial assets including common stocks, preferred stocks, futures contracts, exchange-traded funds, options, mutual funds, and fixed income investments. Ally Bank is another investment organization that is new to the market. Ally is considered in their infancy state for this industry, being in existence around 10 years, but they have excelled in the market with their all transactions on-line platform and their $0 commissions.
 
 EDJ has been late to the financial technology party; they didn't want online platforms and etrades to undermine their core competency of in-person relationships with their clients. That changed when Frank LaQuinta was named Chief Information Officer (*CIO*) in 2018. Shortly after assuming the *CIO* position, LaQinta began working on the EDJ's Digital Acceleration Strategy.
 
-## Digital Acceleraton Strategy ##
+## Digital Acceleration Strategy ##
 This initiative entails:
-1. Using technology to incresae their number of clients.
+1. Using technology to increase their number of clients.
 2. Assist existing clients with more friendly EDJ software applications.
 3. Digital Vault, secure digital solutions for clients, prospective clients, and Financial Advisors to share information in a more collaborative way.
 
@@ -31,7 +31,7 @@ They also began using interactive tools to review prospect’s online questionna
 
 
 ## Results ##
-The results of EDJ's initiative have been mixed. They have increased market share, they have also increased the number of their Financial Advisors from 17,000 to 19,000, while reducing their FA's attrition rate from 9.6% to 7.6%. They still have a lot of ground to make up with younger investors, particularly the segment with bachelor and masters degrees, who are spuring the traditional FA model altogether and using e-trade platforms exclusively.
+The results of EDJ's initiative have been mixed. They have increased market share, they have also increased the number of their Financial Advisors from 17,000 to 19,000, while reducing their FA's attrition rate from 9.6% to 7.6%. They still have a lot of ground to make up with younger investors, particularly the segment with bachelor and masters degrees, who are spurring the traditional FA model altogether and using e-trade platforms exclusively.
 
 
 ## Recommendatons ##
