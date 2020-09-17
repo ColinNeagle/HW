@@ -7,6 +7,7 @@ Date Founded: 1922
 Founder: Edward D Jones
 
 Use of financial technology to increase the organization's investment assets 
+
 How is the company funded? The company is funded through client's investments.
 
 ## Corporate Background 
