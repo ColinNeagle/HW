@@ -10,7 +10,7 @@ Use of financial technology to increase the organization's investment assets
 How is the company funded? The company is funded through client's investments.
 
 ## Corporate Background 
-Edward Jones (**EDJ**) is an old mechanistic org, who has finally decided to use technology to increase market share, whille also improving the  attrition among their financial advisors. They have  been reluctant to do so, do the age and social demographics of their clientele. Most of there clients are older well establsied retirees who left the work force prior to financial technology becoming commonplace and are concerned about their transactions through technology being secure. Ironically, most of the transactions were done through faxes, which are far less secure then digital transactions.
+Edward Jones (**EDJ**) is an old mechanistic organization, which has finally decided to use technology to increase market share, whille also improving the  attrition among their financial advisors. They have  been reluctant to do so, do the age and social demographics of their clientele. Most of there clients are older well establsied retirees who left the work force prior to financial technology becoming commonplace and are concerned about their transactions through technology being secure. Ironically, most of the transactions were done through faxes, which are far less secure then digital transactions.
 
 ## Curent Invetment Financial Services Landscape
 EDJ, like many older investment firms  built their core competency on fostering one-on-one interpersonal relationships to build their clientele and earn their client's trust. Their clients have relied on quarterly in-person meets their Financial Advisors (*FA*) to discuss their investment returns, adjust their investment goals, and seek their FA's investment advice.
@@ -31,7 +31,7 @@ They also began using interactive tools to review prospect’s  online questionn
 
 
 ## Results ##
-The rsults of EDJ's initiative have been mixed. They have increaseed market share, they have also increased the number of Financial Advisors from 17,000 to 19,000, and reduced their FA's attrition rate from 9.6% to 7.6%. They still have a lot of ground to make up with younger investors, particularly the segement with bachelor and masters degrees, who are spuring the traditional FA model altogether and useing e trade platforms exclusively.
+The results of EDJ's initiative have been mixed. They have increaseed market share, they have also increased the number of Financial Advisors from 17,000 to 19,000, and reduced their FA's attrition rate from 9.6% to 7.6%. They still have a lot of ground to make up with younger investors, particularly the segement with bachelor and masters degrees, who are spuring the traditional FA model altogether and useing e trade platforms exclusively.
 
 
 ## Recomendatons ##
@@ -39,7 +39,7 @@ The rsults of EDJ's initiative have been mixed. They have increaseed market shar
 
 
 
-## Resources##
+##Resources##
 [Financial Planning](https://www.financial-planning.com/news/edward-jones-technology-strategy-for-growth)
 
 
