@@ -27,7 +27,7 @@ These initiative entails:
 
  Edward Jones began using more up-to-date trading platforms that their fax execution trades they been using for nearly 50 years. They also began using cloud technology to store cleint's data, executed trade orders, and other client and corporate sensitive information, which they wouldnt have considered even 4 or 4 years ago.
 
-They also began using interactive tools to review prospect’s  online questionnaires and  quizzes; as well as,  algorithms  to review prospective client’s social media data in order to match them with a financial advisor who best fits their personal situation.
+They also began using interactive tools to review prospect’s  online questionnaires and  quizzes; as well as, algorithms to review prospective client’s social media data in order to match them with a financial advisor who best fits their personal situation.
 
 
 ## Results ##
@@ -35,14 +35,20 @@ The results of EDJ's initiative have been mixed. They have increaseed market sha
 
 
 ## Recomendatons ##
+Edward Jones needs to retain their client centric approach, but needs to diversify. Only 37% of US banks and investment firms have a customer service experience program. Their priority has instead been sales and products. Research has indicated client's of banking and investment firms are more loyal to those firms with an emphasis on customer service. To that end, EDJ, can build on their reputation of providing excellent one-on-one service to their banking clients, and should also offer other programs where clients can trade some products excusively through technology without their FA.
 
+EDJ should continue to invest in technology, instead of lagging behind new entrants to the industry. In 2018, it was estimated banking and investment firms invested nearly $220 billion on information technology this year, which is a $20 billion increase from the prior year. By investing in security measures against both human and AI fraud, digitization, and artificial intelligence, Edward Jones can better protect their customer's, while eliminating their traditional customer's fears of on online investing.
 
 
 
 ## Resources ##
 [Financial Planning](https://www.financial-planning.com/news/edward-jones-technology-strategy-for-growth)
+
 [Think Advisor](https://www.thinkadvisor.com/2020/07/01/edward-jones-top-exec-how-the-firm-is-managing-pandemic-boosting-diversity/)
+
 [Think Advisor 2](https://www.thinkadvisor.com/2018/04/29/inside-edward-jones-take-on-technology/)
+
 [Wealth Advisor](https://www.thewealthadvisor.com/article/edward-jones-warns-increased-financial-advisor-attrition-coronavirus-cuts-profitability)
+
 [EDJ](https://www.edwardjones.com/index.html)
 
