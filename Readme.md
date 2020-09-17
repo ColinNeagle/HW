@@ -8,5 +8,6 @@ The company is funded through client's investments
 
 
 ## Business Activities
-Test 1,2,3
-Test 4, 5 6git add 
+Edward Jones is an old mechanistic org, who has finally decided to use technology to increase market share and improve  attrition. They have  been reluctant to do so, do the age and social demographics of their clientele. Most of there clients are older well establsied retirees who left the work force prior to financial technology becoming commonplace and are concerned about their transactions through technology being secure. Ironically, prior to this initiative, most of the trnasactions were done through faxes, which are far less secure then digital transactions.
+
+
