@@ -1,4 +1,7 @@
 # **Case Study on Edward Jones**
+
+![EDJ](/Downloads/EDJ.png)
+
 ## Overview and Origin
 Name of the company:  Edward Jones
 
@@ -53,3 +56,4 @@ EDJ should continue to invest in technology, instead of lagging behind new entra
 
 [EDJ](https://www.edwardjones.com/index.html)
 
+test
