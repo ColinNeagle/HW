@@ -1,6 +1,6 @@
 # **Case Study on Edward Jones**
 
-![EDJ](~\Downloads\EDJ.png)
+![EDJ.png](~/Downloads/EDJ.png)
 
 ## Overview and Origin
 Name of the company:  Edward Jones
@@ -14,7 +14,7 @@ Use of financial technology to increase the organization's investment assets
 How is the company funded? The company is funded through client's investments.
 
 ## Corporate Background 
-Edward Jones (**EDJ**) is an old mechanistic organization, which has finally decided to use technology to increase market share, while also improving the  attrition among their financial advisors. They have  been reluctant to do so, do to the age and social demographics of their clientele. Most of their clients are older well-establised retirees who left the work force prior to financial technology becoming commonplace and are concerned about the security of using technology for their transactions. Ironically, most of the transactions were done through faxes up until a few years ago, which is far less secure then digital transactions.
+Edward Jones (**EDJ**) is an old mechanistic organization, which has finally decided to use technology to increase market share, while also improving the  attrition among their financial advisors. They have  been reluctant to do so, do to the age and social demographics of their clientele. Most of their clients are older well-establised retirees who left the work force prior to financial technology becoming commonplace and are concerned about the security of using technology for their transactions. Ironically, most of the transactions were done through faxes up until a few years ago, which is far less secure then digitDal transactions.
 
 ## Current Investment Financial Services Landscape
 EDJ, like many older investment firms  built their core competency on fostering one-on-one interpersonal relationships to build their clientele and earn their client's trust. Their clients have relied on quarterly in-person meetings with their Financial Advisors (*FA*) to discuss investment returns, adjust the client's investment goals, and seek their FA's investment advice.
