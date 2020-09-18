@@ -1,6 +1,7 @@
 # **Case Study on Edward Jones**
 
-![alt text](EDJ.png"EDJ)
+![EDJ](Images/EDJ.png)
+
 
 ## Overview and Origin
 Name of the company: Edward Jones
