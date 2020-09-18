@@ -1,9 +1,9 @@
 # **Case Study on Edward Jones**
 
-![EDJ.png](~/Downloads/EDJ.png)
+
 
 ## Overview and Origin
-Name of the company:  Edward Jones
+Name of the company: Edward Jones
 
 Date Founded: 1922
 
